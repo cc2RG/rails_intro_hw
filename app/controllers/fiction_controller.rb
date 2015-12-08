@@ -3,4 +3,16 @@ class FictionController < ApplicationController
 
   end  
 
+  def color
+
+  end  
+
+  def outsider
+
+  end
+  
+  def cool_air
+
+  end  
+
 end  
